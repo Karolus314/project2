@@ -1,0 +1,13 @@
+body {
+    display: grid;
+    grid-template-areas:
+    "header header"
+    "sidemenu content"
+    "footer footer";
+}
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
